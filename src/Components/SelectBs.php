@@ -2,7 +2,7 @@
 
 namespace JeroenNoten\LaravelAdminLte\Components;
 
-class SelectBs extends inputGroupComponent
+class SelectBs extends InputGroupComponent
 {
     /**
      * The bootstrap-select plugin configuration parameters. Array with
